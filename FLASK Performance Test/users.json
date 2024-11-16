@@ -1,0 +1,72 @@
+[
+  {
+    "fullName": "John Doe",
+    "userName": "johndoe",
+    "email": "johndoe@example.com",
+    "password": "password123",
+    "phone": "1234567890"
+  },
+  {
+    "fullName": "Jane Smith",
+    "userName": "janesmith",
+    "email": "janesmith@example.com",
+    "password": "password456",
+    "phone": "2345678901"
+  },
+  {
+    "fullName": "Alice Johnson",
+    "userName": "alicejohnson",
+    "email": "alicejohnson@example.com",
+    "password": "password789",
+    "phone": "3456789012"
+  },
+  {
+    "fullName": "Bob Brown",
+    "userName": "bobbrown",
+    "email": "bobbrown@example.com",
+    "password": "password101112",
+    "phone": "4567890123"
+  },
+  {
+    "fullName": "Charlie Lee",
+    "userName": "charlielee",
+    "email": "charlielee@example.com",
+    "password": "password131415",
+    "phone": "5678901234"
+  },
+  {
+    "fullName": "David Wang",
+    "userName": "davidwang",
+    "email": "davidwang@example.com",
+    "password": "password161718",
+    "phone": "6789012345"
+  },
+  {
+    "fullName": "Eva Green",
+    "userName": "evagreen",
+    "email": "evagreen@example.com",
+    "password": "password192021",
+    "phone": "7890123456"
+  },
+  {
+    "fullName": "Frank Black",
+    "userName": "frankblack",
+    "email": "frankblack@example.com",
+    "password": "password222324",
+    "phone": "8901234567"
+  },
+  {
+    "fullName": "Grace Kim",
+    "userName": "gracekim",
+    "email": "gracekim@example.com",
+    "password": "password252627",
+    "phone": "9012345678"
+  },
+  {
+    "fullName": "Henry Davis",
+    "userName": "henrydavis",
+    "email": "henrydavis@example.com",
+    "password": "password282930",
+    "phone": "0123456789"
+  }
+]
