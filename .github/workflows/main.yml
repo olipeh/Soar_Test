@@ -1,0 +1,19 @@
+name: Load Testing with k6
+
+on: [push]
+
+jobs:
+  load-testing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install k6
+        run: sudo apt-get install k6
+
+      - name: Run load test
+        run: k6 run load_test_register.js
+
+      - name: Run stress test
+        run: k6 run stress_test_login.js
